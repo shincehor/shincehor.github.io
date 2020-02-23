@@ -1978,7 +1978,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #18c4ff;
+  background: #18a375;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2837,4 +2837,10 @@ embed {
 #wechat:hover p,
 #alipay:hover p {
   animation: none;
+}
+.post-widgets {
+  padding-top: 0px;
+}
+.post-nav {
+  margin-top: 30px;
 }
